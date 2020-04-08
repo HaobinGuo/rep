@@ -1,4 +1,16 @@
 public class Coronavirus{    
+    
+        public class Covid18{
+            private int diesDeQuarentena;
+
+        public Covid18(int diesDeQuarentena) {
+            this.diesDeQuarentena = diesDeQuarentena;
+        }
+
+        public Covid18() {
+        }
+            
+        }
 	private float infeccio;
 	private float mortalidat;
 	Coronavirus(float x, float y){

@@ -32,4 +32,8 @@ public class Coronavirus{
         	}
         return true;
     	}
+        
+        public static void main(String [] args){
+        Coronavirus c = new Coronavirus();
+        }
 }

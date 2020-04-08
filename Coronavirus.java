@@ -1,7 +1,6 @@
 public class Coronavirus{    
 	private float infeccio;
 	private float mortalidat;
-	private boolean sem;	
 	Coronavirus(float x, float y){
 		infeccio=x;
 		mortalidat=y;

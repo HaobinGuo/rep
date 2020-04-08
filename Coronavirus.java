@@ -1,13 +1,13 @@
 public class Coronavirus{    
     
-        public class Covid18{
+        public class Covid19{
             private int diesDeQuarentena;
 
-        public Covid18(int diesDeQuarentena) {
+        public Covid19(int diesDeQuarentena) {
             this.diesDeQuarentena = diesDeQuarentena;
         }
 
-        public Covid18() {
+        public Covid19() {
         }
             
         }

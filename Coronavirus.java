@@ -43,9 +43,28 @@ public class Coronavirus{
 	            	return false;
         	}
         return true;
+<<<<<<< HEAD
     	}
         
         public static void main(String [] args){
         Coronavirus c = new Coronavirus();
         }
+=======
+    	} public void setInfeccio(float infeccio) {
+        this.infeccio = infeccio;
+    }
+
+    public void setMortalidat(float mortalidat) {
+        this.mortalidat = mortalidat;
+    }
+
+    public float getInfeccio() {
+        return infeccio;
+    }
+
+    public float getMortalidat() {
+        return mortalidat;
+    }
+
+>>>>>>> master
 }
